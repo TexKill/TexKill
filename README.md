@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Denys (TexKill)
 
-<!--
-**TexKill/TexKill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old student from Ukraine passionate about web development, especially front-end UI! I enjoy turning ideas into beautiful, functional websites.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Location: Ukraine
+- 🎓 Student at KFKKTE KAI
+- 🌱 Currently learning JavaScript (ES6+) and exploring new front-end tools
+- 🎯 Goal: Become a skilled mid-level Front-End Developer
+
+## 🛠️ Skills
+
+- **HTML, CSS** — confident and experienced
+- **SASS/SCSS** — for clean, modular, and scalable styles
+- **JavaScript** — actively learning and applying new concepts
+
+## 📂 Featured Projects
+
+- [**MoodDiary**](https://github.com/TexKill/MoodDiary) — Track your mood and feelings in a simple, friendly web app  
+  Features: mood history, fast entry, clean design
+- [**recipe-book**](https://github.com/TexKill/recipe-book) — Save and organize your favorite recipes
+
+## 🌱 What’s Next
+
+- 🚀 Mastering JavaScript core concepts
+- 📖 Building projects with frameworks (React, etc.)
+- 🤝 Collaborating on open-source and group projects
+
+## 📬 Connect with Me
+
+- Telegram: [@TexKill]
+- Email: [dinisilhenko2007@email.com]
+
+---
+
+*Thanks for visiting my GitHub! Always open to feedback, collaboration, and new opportunities.*
+
