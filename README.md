@@ -17,10 +17,6 @@ I am a 4th-year **Computer Engineering** student and an aspiring **Full-stack De
 | **Engineering** | x86 Assembly, Linux SysAdmin, Git, Docker |
 | **Hardware** | System Diagnostics, PC Architecture, Network Configuration |
 
-### 📊 GitHub Stats
-![TexKill's GitHub stats](https://github-readme-stats.vercel.app/api?username=TexKill&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexKill&layout=compact&theme=dracula)
-
 ### 🌎 Languages & Location
 - 📍 **Location**: Kyiv, Ukraine (Open to Remote/Relocation) [memory:0].
 - 🗣️ **Languages**: Ukrainian (Native), English (B2), Italian (Learning).
