@@ -5,8 +5,8 @@ I am a 4th-year **Computer Engineering** student and an aspiring **Full-stack De
 ### 🚀 What I'm working on
 - 🎓 **Thesis Project**: Designing a scalable e-commerce architecture featuring load balancing, message queues, and advanced caching [memory:0].
 - 💻 **Web Development**: Building production-ready applications using the **MERN** stack (MongoDB, Express, React, Node.js).
-- 🛠️ **DevOps & Infrastructure**: Implementing Docker containerization and managing cloud databases with MongoDB Atlas [memory:0].
-- 🌍 **Relocation**: Currently based in Italy, actively seeking remote opportunities within European and Ukrainian tech markets [memory:0].
+- 🛠️ **DevOps & Infrastructure**: Implementing Docker containerization and managing cloud databases with MongoDB Atlas.
+- 🌍 **Relocation**: Currently based in Italy, actively seeking remote opportunities within European and Ukrainian tech markets.
 
 ### 🛠️ Technical Toolbox
 | Category | Technologies |
@@ -18,12 +18,12 @@ I am a 4th-year **Computer Engineering** student and an aspiring **Full-stack De
 | **Hardware** | System Diagnostics, PC Architecture, Network Configuration |
 
 ### 🌎 Languages & Location
-- 📍 **Location**: Kyiv, Ukraine (Open to Remote/Relocation) [memory:0].
+- 📍 **Location**: Kyiv, Ukraine (Open to Remote/Relocation).
 - 🗣️ **Languages**: Ukrainian (Native), English (B2), Italian (Learning).
 
 ### 📫 Connect with me
 - **LinkedIn**: [https://www.linkedin.com/in/denys-ilchenko-5a798035a/]
-- **GitHub**: [TexKill](https://github.com/TexKill) [file:1]
+- **GitHub**: [TexKill](https://github.com/TexKill)
 
 ---
 *"Engineering robust solutions from the hardware up to the cloud."*
