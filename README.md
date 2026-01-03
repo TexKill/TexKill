@@ -3,7 +3,7 @@
 I am a 4th-year **Computer Engineering** student and an aspiring **Full-stack Developer**. I bridge the gap between low-level hardware understanding and modern high-level web architecture.
 
 ### 🚀 What I'm working on
-- 🎓 **Thesis Project**: Designing a scalable e-commerce architecture featuring load balancing, message queues, and advanced caching [memory:0].
+- 🎓 **Thesis Project**: Designing a scalable e-commerce architecture featuring load balancing, message queues, and advanced caching.
 - 💻 **Web Development**: Building production-ready applications using the **MERN** stack (MongoDB, Express, React, Node.js).
 - 🛠️ **DevOps & Infrastructure**: Implementing Docker containerization and managing cloud databases with MongoDB Atlas.
 - 🌍 **Relocation**: Currently based in Italy, actively seeking remote opportunities within European and Ukrainian tech markets.
