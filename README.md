@@ -22,7 +22,7 @@ I am a 4th-year **Computer Engineering** student and an aspiring **Full-stack De
 - 🗣️ **Languages**: Ukrainian (Native), English (B2), Italian (Learning).
 
 ### 📫 Connect with me
-- **LinkedIn**: [https://www.linkedin.com/in/denys-ilchenko-5a798035a/]
+- **LinkedIn**: [Denys](https://www.linkedin.com/in/denys-ilchenko-5a798035a/)
 - **GitHub**: [TexKill](https://github.com/TexKill)
 
 ---
