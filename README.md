@@ -1,38 +1,33 @@
-# 👋 Hi, I'm Denys (TexKill)
+# Hi there, I'm Denys (TexKill) 👋
 
-I'm an 18-year-old student from Ukraine passionate about web development, especially front-end UI! I enjoy turning ideas into beautiful, functional websites.
+I am a 4th-year **Computer Engineering** student and an aspiring **Full-stack Developer**. I bridge the gap between low-level hardware understanding and modern high-level web architecture.
 
-## 🚀 About Me
+### 🚀 What I'm working on
+- 🎓 **Thesis Project**: Designing a scalable e-commerce architecture featuring load balancing, message queues, and advanced caching [memory:0].
+- 💻 **Web Development**: Building production-ready applications using the **MERN** stack (MongoDB, Express, React, Node.js).
+- 🛠️ **DevOps & Infrastructure**: Implementing Docker containerization and managing cloud databases with MongoDB Atlas [memory:0].
+- 🌍 **Relocation**: Currently based in Italy, actively seeking remote opportunities within European and Ukrainian tech markets [memory:0].
 
-- 🌍 Location: Ukraine
-- 🎓 Student at KFKKTE KAI
-- 🌱 Currently learning JavaScript (ES6+) and exploring new front-end tools
-- 🎯 Goal: Become a skilled mid-level Front-End Developer
+### 🛠️ Technical Toolbox
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, JavaScript (ES6+), SCSS/SASS, Responsive Design |
+| **Backend** | Node.js, Express.js, RESTful APIs, Redis |
+| **Database** | MongoDB, SQL |
+| **Engineering** | x86 Assembly, Linux SysAdmin, Git, Docker |
+| **Hardware** | System Diagnostics, PC Architecture, Network Configuration |
 
-## 🛠️ Skills
+### 📊 GitHub Stats
+![TexKill's GitHub stats](https://github-readme-stats.vercel.app/api?username=TexKill&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexKill&layout=compact&theme=dracula)
 
-- **HTML, CSS** — confident and experienced
-- **SASS/SCSS** — for clean, modular, and scalable styles
-- **JavaScript** — actively learning and applying new concepts
+### 🌎 Languages & Location
+- 📍 **Location**: Kyiv, Ukraine (Open to Remote/Relocation) [memory:0].
+- 🗣️ **Languages**: Ukrainian (Native), English (B2), Italian (Learning).
 
-## 📂 Featured Projects
-
-- [**MoodDiary**](https://github.com/TexKill/MoodDiary) — Track your mood and feelings in a simple, friendly web app  
-  Features: mood history, fast entry, clean design
-- [**recipe-book**](https://github.com/TexKill/recipe-book) — Save and organize your favorite recipes
-
-## 🌱 What’s Next
-
-- 🚀 Mastering JavaScript core concepts
-- 📖 Building projects with frameworks (React, etc.)
-- 🤝 Collaborating on open-source and group projects
-
-## 📬 Connect with Me
-
-- Telegram: [@TexKill]
-- Email: [dinisilhenko2007@email.com]
+### 📫 Connect with me
+- **LinkedIn**: [https://www.linkedin.com/in/denys-ilchenko-5a798035a/]
+- **GitHub**: [TexKill](https://github.com/TexKill) [file:1]
 
 ---
-
-*Thanks for visiting my GitHub! Always open to feedback, collaboration, and new opportunities.*
-
+*"Engineering robust solutions from the hardware up to the cloud."*
