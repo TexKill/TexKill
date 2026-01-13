@@ -6,7 +6,7 @@ I am a 4th-year **Computer Engineering** student and an aspiring **Full-stack De
 - 🎓 **Thesis Project**: Designing a scalable e-commerce architecture featuring load balancing, message queues, and advanced caching.
 - 💻 **Web Development**: Building production-ready applications using the **MERN** stack (MongoDB, Express, React, Node.js).
 - 🛠️ **DevOps & Infrastructure**: Implementing Docker containerization and managing cloud databases with MongoDB Atlas.
-- 🌍 **Relocation**: Currently based in Italy, actively seeking remote opportunities within European and Ukrainian tech markets.
+- 🌍 **Relocation**: Currently based in Ukraine, actively seeking remote opportunities within European and Ukrainian tech markets.
 
 ### 🛠️ Technical Toolbox
 | Category | Technologies |
